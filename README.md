@@ -1,1 +1,1 @@
-Materiais do curso "prendizado Profundo" da UFMG
+Materiais do curso "Aprendizado Profundo" da UFMG
